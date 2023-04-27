@@ -32,7 +32,7 @@ At the end of this project, I was able to solve these questions:
 
 ### Try It On Your Machine :computer:
 ```bash
-git clone https://github.com/Montodel/alx-system_engineering-devops.git
+git clone https://github.com/254Kiswer/alx-system_engineering-devops.git
 cd 0x13-firewall
 cat FILENAME
 ufw status
